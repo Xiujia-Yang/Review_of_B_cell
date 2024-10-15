@@ -5,22 +5,22 @@
 
 We organize our codes (either R or Python script) according to their applications. Generally, they fall into the following six categories,
 
-Data preprocessing and cell population identification
--RScript: DoubletFinder
--RScript: Primary clustering & B cell secondary clustering
+1. Data preprocessing and cell population identification
+	-RScript: DoubletFinder
+	-RScript: Primary clustering & B cell secondary clustering
 
-Gene regulation dynamics
--Python: scVelo analysis 
+2. Gene regulation dynamics
+	-Python: scVelo analysis 
 
-Trajectory inference
--RScript: Monocle2 analysis
+3. Trajectory inference
+	-RScript: Monocle2 analysis
 
-BCR repertoire analysis
--Python: BCR repertoire analysis
+4. BCR repertoire analysis
+	-Python: BCR repertoire analysis
 
-Cell communication analysis
--Python: CellPhoneDb analysis
+5. Cell communication analysis
+	-Python: CellPhoneDb analysis
 
-External data investigation
+6. External data investigation
 	-Rscript: Import data and preprocessing
 	-Python: Customized scripts
