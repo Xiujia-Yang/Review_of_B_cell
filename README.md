@@ -2,6 +2,7 @@
 > [!NOTE]
 > This repository hosts the codes used to produce the key results in our research article, "Single-cell analysis reveals multi-faceted features of B cell development together with age-associated B cell subpopulations".
 
+## Introduction of the codes in this study
 
 We organize our codes (either R or Python script) according to their applications. Generally, they fall into the following six categories,
 
@@ -24,3 +25,6 @@ We organize our codes (either R or Python script) according to their application
 6. External data investigation
 	- Rscript: Import data and preprocessing
 	- Python: Customized scripts
+
+## Others
+If you have any questions related to these codes, please contact the authors through the following emails (zhenhaismu@163.com, yangxiuj1a@163.com).
