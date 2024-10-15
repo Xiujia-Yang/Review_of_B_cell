@@ -3,8 +3,8 @@
 > This repository hosts the codes used to produce the key results in our research article, "Single-cell analysis reveals multi-faceted features of B cell development together with age-associated B cell subpopulations".
 
 ## Table of contents
-* [Introduction of the codes](#Introduction of the codes)
-* [Introduction of the intermediate results](#Introduction of the intermediate results)
+* [Introduction of the codes](#Introduction-of-the-codes)
+* [Introduction of the intermediate results](#Introduction-of-the-intermediate-results)
 
 
 ## Introduction of the codes
