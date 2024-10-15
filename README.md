@@ -1,6 +1,6 @@
 # Review_of_B_cell
 > [!NOTE]
-> This repository hosts the codes used to produce the key results in our research article, "Single-cell analysis reveals multi-faceted features of B cell development together with age-associated B cell subpopulations".
+> This repository hosts the codes and intermediate results used to produce the key results in our research article, "Single-cell analysis reveals multi-faceted features of B cell development together with age-associated B cell subpopulations".
 
 ## Table of contents
 * [Introduction of the codes](#Introduction-of-the-codes)
@@ -11,7 +11,7 @@
 
 We organize our codes (either R or Python script) according to their applications. Generally, they fall into the following six categories,
 
-1. Data preprocessing and cell population identification
+1. [Data preprocessing and cell population identification](https://github.com/Xiujia-Yang/Review_of_B_cell/tree/main/1_Data_preprocessing_and_cell_population_identification)
 	- RScript: DoubletFinder
 	- RScript: Primary clustering & B cell secondary clustering
 
