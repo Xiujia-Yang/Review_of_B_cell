@@ -41,7 +41,7 @@ The following intermediate results can be used with the released codes to reprod
 - `bc.proj.clean.clone.csv.gz`: This file stores assembled clonotype information for B cells in this study.
 - `bc.proj.clean.metadata.csv.gz`: This file stores cell metadata. 
 - `external_project_metadata.tar.gz`: It stores the cell metadata information for 6 external single-cell studies. Expression levels of genes of interest are also precomputed.
-- `merged_filtered_contig_annotations_preprocessed.csv.gz`: This files stores the annotation of BCR contigs from all in-house enriched B cell samples. BCR contigs were preprocessed to retain only one valid heavy chain contig and one valid light chain contig for each cell.
+- `merged_filtered_contig_annotations_preprocessed.csv.gz`: This file stores the annotation of BCR contigs from all in-house enriched B cell samples. BCR contigs were preprocessed to retain only one valid heavy chain contig and one valid light chain contig for each cell.
 - `rank_velocity_genes_20230921.csv`: This file stores genes with top velocity score for each B cell subpopulation.
 
 
